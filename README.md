@@ -85,4 +85,4 @@ The system successfully returned to a normal boot process after repairing the sw
 
 The complete troubleshooting process is demonstrated in the following video, from the boot failure and recovery environment through configuration repair and successful system boot:
 
-**[▶ Watch the full troubleshooting demonstration](./video/boot-recovery-demo.mp4)**
+**[▶ Watch the troubleshooting demonstration](../../releases/tag/v1.0)**
